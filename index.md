@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Pwn School Project
 
 You can use the [editor on GitHub](https://github.com/pwn-school/pwn-school.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
