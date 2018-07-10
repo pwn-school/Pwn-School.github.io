@@ -1,8 +1,6 @@
 ## The Pwn School Project
 
-You can use the [editor on GitHub](https://github.com/pwn-school/pwn-school.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Pwn School Project was created out of the desire to offer free pentesting/ethical hacking education to the public.  
 
 ### Markdown
 
