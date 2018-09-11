@@ -2,6 +2,10 @@
 
 Books
 
+Penetration Testing
+A Hands-On Introduction to Hacking
+by Georgia Weidman
+
 The Hackers Playbook 2 
 The Hackers Playbook 3
 
