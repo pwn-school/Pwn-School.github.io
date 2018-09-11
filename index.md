@@ -1,4 +1,4 @@
-resources.md 
+/permalink: /resources/
 
 ## The Pwn School Project
 
