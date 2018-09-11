@@ -1,4 +1,4 @@
-### Network Pentesting Resources
+## Network Pentesting Resources
 
 ## Books
 
@@ -26,15 +26,15 @@ GPEN - SANS
 OSCP
 
 
-### Web Application Resources
+## Web Application Resources
 
-## Books
+### Books
 
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition (labs available online for exercises in book)
 
 The Tangled Web: A Guide to Securing Modern Web Applications 1st Edition
 
-## Free Courses
+### Free Courses
 
 https://www.hacker101.com (web pentesting free online course by Hacker1)
 
@@ -46,11 +46,11 @@ https://pentesterlab.com (free and paid)
 
 https://sourceforge.net/projects/samurai/files/SamuraiWTF%20Course/ (course written by SANS GWAPT instructor) 
 
-## Paid Courses
+### Paid Courses
 https://pentesterlab.com (free and paid)
 GWAPT course from SANS
 
-## OWASP References
+### OWASP References
 
 OWASP Top 10
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project (2017 most current)
@@ -60,22 +60,22 @@ https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
 https://www.owasp.org/images/1/19/OTGv4.pdf (PDF guide)
 
 
-## Software
+### Software
 
 Burp Suite Pro - $349 per year (preferred)
 OWASP ZAP - free 
 
-## Free Web App Dev Course
+### Free Web App Dev Course
 
 https://www.freecodecamp.org/
 
-## Bug Bounty Programs
+### Bug Bounty Programs
 
 https://bugcrowd.com/ 
 
 https://hackerone.com/
 
-## Certs
+### Certs
 
 GWAPT - SANS Sec 542
 
