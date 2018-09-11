@@ -12,7 +12,6 @@ The Hackers Playbook 3
 Gray Hat Hacking The Ethical Hacker's Handbook 4th Edition (5th Edition released June 8)
 
 ## Free Courses
-http://www.securitytube.net/ (free pentesting videos)
 https://www.hackingtutorials.org/
 
 ## Paid Courses
