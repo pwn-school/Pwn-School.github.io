@@ -11,5 +11,12 @@ The Pwn School Project was created out of the desire to offer free pentesting/et
 
 Pwn School holds free educational monthly meetings on the third Wednesday of the month. To RSVP and get time and location info go to the Pwn School meetup page; https://www.meetup.com/Pwn-School/
 
+### Pwn School Social Media 
+
+Twitter: @SchoolPwn
+LinkedIn: https://www.linkedin.com/company/the-pwn-school-project/
+Facebook: https://www.facebook.com/pwnschool/
+YouTube: https://www.youtube.com/channel/UCCPAxE2M4JuMjiG74IinZqA/
+
 
 
